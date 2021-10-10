@@ -9,7 +9,7 @@ body {
 .header {
   display: flex;
   align-items: center;
-  padding: ;
+  padding: 14;
 }
 .menu {
   list-style-type: none;
